@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Mustsfa.</h2>
 
@@ -40,7 +39,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://mustafadabah.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://mustafadabah.netlify.app"><img alt="Website" src="https://mustafadabah.netlify.app"></a>
 <a href="https://www.linkedin.com/in/mustafa-dabah-ab58661a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-mustafaDabah=linkedin"></a>
 <a href="mustafadabah5555@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=mustafadabah5555"></a>
 </p>
