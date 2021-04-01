@@ -42,7 +42,7 @@
 <p align="center">
 <a href="https://mustafadabah.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/mustafa-dabah-ab58661a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mustafadabah5555@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mustafadabah5555@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=mustafadabah5555"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
