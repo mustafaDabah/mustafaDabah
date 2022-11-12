@@ -29,19 +29,15 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://mustafadabah.netlify.app"><img alt="Website">Website</a>
-<a href="https://www.linkedin.com/in/mustafa-dabah-ab58661a3/">LinkedIn</a>
-<a href="mustafadabah5555@gmail.com"><img alt="Email">Email</a>
+<a href="https://mustafadabah.netlify.app"><img alt="Website"></a>
+<a href="https://www.linkedin.com/in/mustafa-dabah-ab58661a3/"></a>
+<a href="mustafadabah5555@gmail.com"><img alt="Email"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
