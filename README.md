@@ -39,9 +39,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://mustafadabah.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/mustafa-dabah-ab58661a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-mustafaDabah=linkedin"></a>
-<a href="mustafadabah5555@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=mustafadabah5555"></a>
+<a href="https://mustafadabah.netlify.app"><img alt="Website">Website</a>
+<a href="https://www.linkedin.com/in/mustafa-dabah-ab58661a3/">LinkedIn</a>
+<a href="mustafadabah5555@gmail.com"><img alt="Email">Email</a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
