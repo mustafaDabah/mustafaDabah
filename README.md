@@ -4,11 +4,13 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 I’m currently learning React, TypeScript, Nuxt .
+- 🌱 I’m currently Languages, Framework, Library.
+- 👯 I’m looking to collaborate on Open Source Contribution.
 - 👨🏼‍💻 Open for Freelance Project slicing / convert design to a website
 - ❤️ I love to design prototypes, code, build websites and web applications.
 - 🔌 My GOAL: work as a professional Front-end Developer .
 - 📚 Learning new things, self driven, hard working and friendly.😃
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.mustafadabah.com/work/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
