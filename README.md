@@ -37,9 +37,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://mustafadabah.netlify.app"><img alt="Website"></a>
+<a href="https://www.mustafadabah.com"><img alt="Website"></a>
 <a href="https://www.linkedin.com/in/mustafa-dabah-ab58661a3/"></a>
 <a href="mustafadabah5555@gmail.com"><img alt="Email"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
